@@ -1,0 +1,1 @@
+frida -U -f com.axlebolt.standoff2 -l dist/agent.js
