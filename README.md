@@ -8,6 +8,7 @@
 3. Збилдите проект используя комманду <code>npm run build</code>
 4. Затем запустите <code>npm run spawn</code>
 
+<b>Так-же вам прийдется редактировать смещения и количество классов в index.ts</b>
 
 С добром от experienceinmymind <3
 
